@@ -1,4 +1,4 @@
-Projet Patch 
+Projet Patch Quentin S 
 
 Commit 1
 
